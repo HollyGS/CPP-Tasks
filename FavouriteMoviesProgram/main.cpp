@@ -1,7 +1,5 @@
 /******************************************************************
- * Section 13 Challenge
- * main.cpp
- * 
+ *
  * Test the Movies project
  * 
  * ***************************************************************/
@@ -13,7 +11,6 @@ void increment_watched(Movies &movies, std::string name);
 void add_movie(Movies &movies, std::string name, std::string rating, int watched);
 
 /******************************************************************
- * helper function 
  * increment_watched expects a reference to a Movies object 
  * and the name of the movie to increment the watched count
  *
