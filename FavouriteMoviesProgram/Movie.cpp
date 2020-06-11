@@ -1,7 +1,4 @@
 /******************************************************************
- * Section 13 Challenge
- * Movie.cpp
- * 
  * Models a Movie with the following atttributes
  * 
  * std::string name - the name of the movie 
